@@ -22,7 +22,7 @@ This is a Node.js backend API for a railway management system similar to IRCTC, 
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Satyesh7/railway-management-irctc.git
 cd railway-management
 ```
 
